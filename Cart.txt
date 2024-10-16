@@ -1,0 +1,6 @@
+ 
+Laptop 135000
+AirConditioner 135000
+Brush 450
+Bed 99999
+Adapter 2500

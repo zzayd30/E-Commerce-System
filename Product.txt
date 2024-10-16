@@ -1,0 +1,15 @@
+ 
+Breaker 2500
+Mic 5000
+Laptop 175000
+Mobile 50000
+Charger 1500
+Handfree 300
+Chair 3500
+Television 45000
+Adapter 2500
+USB 500
+Brush 450
+AirConditioner 135000
+Bed 99999
+Pillow 750
